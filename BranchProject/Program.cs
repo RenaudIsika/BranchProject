@@ -1,3 +1,1 @@
-﻿
-Console.WriteLine("Hello, World B!");
-
+﻿Console.WriteLine("Hello, World C!");
